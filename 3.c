@@ -11,7 +11,7 @@ main() {
                 counter++; 
             }  
             if(counter>0){
-                printf("\n%llu içinde %d kez var",i,counter);
+                printf("\n%llu sayının içinde %d kez var",i,counter);
             }	
 }
 }
