@@ -4,8 +4,7 @@
 
 int main()
 {
-    int a ;
-    int i ;
+    int a,i;
     int num1=0;
     int num2=1;
     
