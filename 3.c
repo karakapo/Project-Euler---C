@@ -25,3 +25,4 @@ int checkprime(unsigned long long int num) {
 	}
 	return prime;
 }
+
